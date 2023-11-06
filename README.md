@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lgk</h1>
+<h1 align="center">I'm Lgk</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imlgk&label=Profile%20views&color=0e75b6&style=flat" alt="imlgk" /> </p>
 
 ![asuka](https://github.com/imlgk/imlgk/assets/150084072/f3ec2259-46ba-4ab2-a3b6-70701b3448a1)
