@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lgk</h1>
 <p>
-<iframe src="https://giphy.com/embed/2dUFwAoCIkqpG" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/serial-experiments-lain-2dUFwAoCIkqpG">via GIPHY</a></p>
+![](https://media.giphy.com/media/2dUFwAoCIkqpG/giphy.gif)
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imlgk&label=Profile%20views&color=0e75b6&style=flat" alt="imlgk" /> </p>
 
